@@ -44,7 +44,7 @@
 
 ### 🚀 **GitHub Streak**
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=pulkitgupta2)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=pulkitgupta2&theme=onedark)](https://git.io/streak-stats)
 
 ### 📈 **GitHub Contribution Graph**
 
